@@ -927,6 +927,1413 @@
     } 
    ]
 
+  },
+ {
+  
+  
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "topic",
+  "title" : "04: Navigation & Style ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-04-navigation/topic.jpeg",
+  
+  
+
+  "summary" : "indentation · encoding · doctype · validity · semantics · entities · type attributes · quotations · nav · tab · current · padding · border · menu · li · ul · header · main · nav · aside · article · footer · section · figure",
+  "id": "topic-04-navigation",
+  
+    "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-04-navigation"
+  
+,
+  "los": [
+   {
+    
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "unit",
+  "title" : "Navigation ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-04-navigation/unit-a/talk-1-css-selectors/d-css-selectors.png",
+  
+  
+
+  "summary" : "Navigation",
+  "id": "unit-a",
+  
+    "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-04-navigation/unit-a"
+  
+
+    
+  
+    ,"los" : [
+     {
+      
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "talk",
+  "title" : "CSS Cascade ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-04-navigation/unit-a/talk-1-css-selectors/d-css-selectors.png",
+  
+  
+
+  "summary" : "Example of selector rule evaluation with a worked example",
+  "id": "talk-1-css-selectors",
+  
+    "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-04-navigation/unit-a/talk-1-css-selectors/d-css-selectors.pdf",
+    "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-04-navigation/unit-a/talk-1-css-selectors/d-css-selectors.pdf"
+  
+
+      } ,
+     {
+      
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "talk",
+  "title" : "Navigation ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-04-navigation/unit-a/talk-2-navigation/css-navigation.jpeg",
+  
+  
+
+  "summary" : "nav · tab · current · padding · border · menu · li · ul",
+  "id": "talk-2-navigation",
+  
+    "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-04-navigation/unit-a/talk-2-navigation/css-navigation.pdf",
+    "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-04-navigation/unit-a/talk-2-navigation/css-navigation.pdf"
+  
+
+      } ,
+     {
+      
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "lab",
+  "title" : "Lab-04 Navigation",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-04-navigation/unit-a/book/img/main.png",
+  
+  
+
+  "summary" : "Devise a simple navigation metaphor for a web site.",
+  "id": "book",
+  
+    "route" : "#lab/wit-tutors.github.io/tutors-demo/topic-04-navigation/unit-a/book"
+  
+
+      } ,
+     {
+      
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "panelvideo",
+  "title" : "04a: Navigation ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-04-navigation/unit-a/panelvideo/",
+  
+  
+
+    "video" : "https://www.youtube.com/embed/PPMxjkDU4sY",
+  
+
+  "summary" : "",
+  "id": "panelvideo",
+  
+    "route" : "PPMxjkDU4sY"
+  
+
+      } 
+     ]
+  
+
+    } ,
+   {
+    
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "unit",
+  "title" : "Design I: Introduction ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-04-navigation/unit-b/talk-1/design-guides.png",
+  
+  
+
+  "summary" : "Design I: Introduction",
+  "id": "unit-b",
+  
+    "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-04-navigation/unit-b"
+  
+
+    
+  
+    ,"los" : [
+     {
+      
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "talk",
+  "title" : "Design Guides for the Web ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-04-navigation/unit-b/talk-1/design-guides.png",
+  
+  
+
+  "summary" : "Introduction to web design principles",
+  "id": "talk-1",
+  
+    "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-04-navigation/unit-b/talk-1/design-guides.pdf",
+    "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-04-navigation/unit-b/talk-1/design-guides.pdf"
+  
+
+      } ,
+     {
+      
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "panelvideo",
+  "title" : "04b: Design Guides for the Web ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-04-navigation/unit-b/panelvideo/",
+  
+  
+
+    "video" : "https://www.youtube.com/embed/w9HA7HuTTkw",
+  
+
+  "summary" : "",
+  "id": "panelvideo",
+  
+    "route" : "w9HA7HuTTkw"
+  
+
+      } 
+     ]
+  
+
+    } 
+   ]
+
+  },
+ {
+  
+  
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "topic",
+  "title" : "05: Deployment & Templating ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-05-templating/topic.png",
+  
+  
+
+  "summary" : "clients · servers · hosting · domains · dns · paths · http · command prompt · node · harp · surge · server · compile · EJS · dry · wet · engine · partials · includes · layouts · paths · compile",
+  "id": "topic-05-templating",
+  
+    "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-05-templating"
+  
+,
+  "los": [
+   {
+    
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "unit",
+  "title" : "Deployment ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-05-templating/unit-a/talk-1-deployment/deployment.png",
+  
+  
+
+  "summary" : "Deployment",
+  "id": "unit-a",
+  
+    "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-05-templating/unit-a"
+  
+
+    
+  
+    ,"los" : [
+     {
+      
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "talk",
+  "title" : "Deployment ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-05-templating/unit-a/talk-1-deployment/deployment.png",
+  
+  
+
+  "summary" : "clients · servers · hosting · domains · dns · paths · http · response codes",
+  "id": "talk-1-deployment",
+  
+    "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-05-templating/unit-a/talk-1-deployment/deployment.pdf",
+    "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-05-templating/unit-a/talk-1-deployment/deployment.pdf"
+  
+
+      } ,
+     {
+      
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "talk",
+  "title" : "Harp & Surge ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-05-templating/unit-a/talk-2-harp-and-surge/harp.png",
+  
+  
+
+  "summary" : "command prompt · node · harp · surge · server · compile",
+  "id": "talk-2-harp-and-surge",
+  
+    "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-05-templating/unit-a/talk-2-harp-and-surge/harp.pdf",
+    "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-05-templating/unit-a/talk-2-harp-and-surge/harp.pdf"
+  
+
+      } ,
+     {
+      
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "lab",
+  "title" : "Lab-05a Harp & Surge",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-05-templating/unit-a/book-01-deployment/img/main.png",
+  
+  
+
+    "video" : "https://www.youtube.com/embed/yerJdD3IQ44",
+  
+
+  "summary" : "Install software tools to serve a web site locally and also to deploy the web site to a public web server.",
+  "id": "book-01-deployment",
+  
+    "route" : "#lab/wit-tutors.github.io/tutors-demo/topic-05-templating/unit-a/book-01-deployment"
+  
+
+      } 
+     ]
+  
+
+    } ,
+   {
+    
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "unit",
+  "title" : "Templating ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-05-templating/unit-b/talk-4-templates/templates.png",
+  
+  
+
+  "summary" : "Templating",
+  "id": "unit-b",
+  
+    "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-05-templating/unit-b"
+  
+
+    
+  
+    ,"los" : [
+     {
+      
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "talk",
+  "title" : "Templates ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-05-templating/unit-b/talk-4-templates/templates.png",
+  
+  
+
+  "summary" : "EJS · dry · wet · engine · partials · includes · layouts · paths · compile",
+  "id": "talk-4-templates",
+  
+    "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-05-templating/unit-b/talk-4-templates/templates.pdf",
+    "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-05-templating/unit-b/talk-4-templates/templates.pdf"
+  
+
+      } ,
+     {
+      
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "lab",
+  "title" : "Lab-05b Templates",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-05-templating/unit-b/book-templates/img/main.png",
+  
+  
+
+  "summary" : "Refactor the bundle-store site to use EJS templates",
+  "id": "book-templates",
+  
+    "route" : "#lab/wit-tutors.github.io/tutors-demo/topic-05-templating/unit-b/book-templates"
+  
+
+      } 
+     ]
+  
+
+    } ,
+   {
+    
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "unit",
+  "title" : "Design II: Typography (+ html coding standards) ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-05-templating/unit-c/talk-1-typograpahy/typography.png",
+  
+  
+
+  "summary" : "Design II: Typography (+ html coding standards)",
+  "id": "unit-c",
+  
+    "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-05-templating/unit-c"
+  
+
+    
+  
+    ,"los" : [
+     {
+      
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "talk",
+  "title" : "Typography ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-05-templating/unit-c/talk-1-typograpahy/typography.png",
+  
+  
+
+  "summary" : "The fundamentals of fonts & typefaces in the context of web design.",
+  "id": "talk-1-typograpahy",
+  
+    "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-05-templating/unit-c/talk-1-typograpahy/typography.pdf",
+    "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-05-templating/unit-c/talk-1-typograpahy/typography.pdf"
+  
+
+      } ,
+     {
+      
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "talk",
+  "title" : "HTML Style Guide ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-05-templating/unit-c/talk-3-coding-standards-html/coding-standards-html.jpg",
+  
+  
+
+  "summary" : "indentation · encoding · doctype · validity ·  semantics · entities · type attributes · quotations",
+  "id": "talk-3-coding-standards-html",
+  
+    "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-05-templating/unit-c/talk-3-coding-standards-html/coding-standards-html.pdf",
+    "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-05-templating/unit-c/talk-3-coding-standards-html/coding-standards-html.pdf"
+  
+
+      } ,
+     {
+      
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "talk",
+  "title" : "Semantic HTML ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-05-templating/unit-c/talk-3-semantic-html/semantic-html.png",
+  
+  
+
+  "summary" : "header · main · nav · aside · article · footer · section · figure",
+  "id": "talk-3-semantic-html",
+  
+    "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-05-templating/unit-c/talk-3-semantic-html/semantic-html.pdf",
+    "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-05-templating/unit-c/talk-3-semantic-html/semantic-html.pdf"
+  
+
+      } ,
+     {
+      
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "panelvideo",
+  "title" : "05b: Typography ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-05-templating/unit-c/panelvideo/",
+  
+  
+
+    "video" : "https://www.youtube.com/embed/Z308Hm3Pa78",
+  
+
+  "summary" : "",
+  "id": "panelvideo",
+  
+    "route" : "Z308Hm3Pa78"
+  
+
+      } 
+     ]
+  
+
+    } ,
+   {
+    
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "panelvideo",
+  "title" : "05a: Templating ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-05-templating/panelvideo/",
+  
+  
+
+    "video" : "https://www.youtube.com/embed/b4qsSshHKoA",
+  
+
+  "summary" : "",
+  "id": "panelvideo",
+  
+    "route" : "b4qsSshHKoA"
+  
+
+    
+  
+
+    } 
+   ]
+
+  },
+ {
+  
+  
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "topic",
+  "title" : "06: Semantic + CSS Frameworks ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/topic.jpg",
+  
+  
+
+  "summary" : "review  · bootstrap · semantic ui · container · segment · grid · stackable · tables · icons · images  · row · col",
+  "id": "topic-06-css-frameworks",
+  
+    "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-06-css-frameworks"
+  
+,
+  "los": [
+   {
+    
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "unit",
+  "title" : "06a: Semantic HTML  ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-a/talk-1-labs-review/lab-review.png",
+  
+  
+
+  "summary" : "06a: Semantic HTML",
+  "id": "unit-a",
+  
+    "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-a"
+  
+
+    
+  
+    ,"los" : [
+     {
+      
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "talk",
+  "title" : " Lab Review ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-a/talk-1-labs-review/lab-review.png",
+  
+  
+
+  "summary" : "lab-1  · lab-2 ·lab-3 · lab-4 · lab-5 · lab-6",
+  "id": "talk-1-labs-review",
+  
+    "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-a/talk-1-labs-review/lab-review.pdf",
+    "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-a/talk-1-labs-review/lab-review.pdf"
+  
+
+      } ,
+     {
+      
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "talk",
+  "title" : "Semantic HTML ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-a/talk-1-semantic-html/semantic-html.png",
+  
+  
+
+  "summary" : "header · main · nav · aside · article · footer · section · figure",
+  "id": "talk-1-semantic-html",
+  
+    "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-a/talk-1-semantic-html/semantic-html.pdf",
+    "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-a/talk-1-semantic-html/semantic-html.pdf"
+  
+
+      } ,
+     {
+      
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "talk",
+  "title" : "CSS Style Guide ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-a/talk-2-css-style-guide/css-guide.png",
+  
+  
+
+  "summary" : "validity · names · name style · selectors · shorthand · delimiters · order · stops · quotations",
+  "id": "talk-2-css-style-guide",
+  
+    "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-a/talk-2-css-style-guide/css-guide.pdf",
+    "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-a/talk-2-css-style-guide/css-guide.pdf"
+  
+
+      } ,
+     {
+      
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "lab",
+  "title" : "Lab-06a Nav Params",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-a/book-nav-2/img/main.jpg",
+  
+  
+
+  "summary" : "Introduce semantic elements. Define a parametrised navigation partial",
+  "id": "book-nav-2",
+  
+    "route" : "#lab/wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-a/book-nav-2"
+  
+
+      } 
+     ]
+  
+
+    } ,
+   {
+    
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "unit",
+  "title" : "06b: CSS Frameworks & Semantic UI ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-b/talk-1-css-frameworks/sematic-ui-part-1.png",
+  
+  
+
+  "summary" : "06b: CSS Frameworks & Semantic UI",
+  "id": "unit-b",
+  
+    "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-b"
+  
+
+    
+  
+    ,"los" : [
+     {
+      
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "talk",
+  "title" : "Semantic-UI I: Container & Segment ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-b/talk-1-css-frameworks/sematic-ui-part-1.png",
+  
+  
+
+  "summary" : "project structure · semantic ui archive · container · segment · raised · stacked",
+  "id": "talk-1-css-frameworks",
+  
+    "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-b/talk-1-css-frameworks/sematic-ui-part-1.pdf",
+    "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-b/talk-1-css-frameworks/sematic-ui-part-1.pdf"
+  
+
+      } ,
+     {
+      
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "talk",
+  "title" : "Semantic-UI II: Grids & Images ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-b/talk-2-grids-and-images/sematic-ui-part-2.png",
+  
+  
+
+  "summary" : "row · column · aligned · center · top  · image · small · medium · large",
+  "id": "talk-2-grids-and-images",
+  
+    "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-b/talk-2-grids-and-images/sematic-ui-part-2.pdf",
+    "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-b/talk-2-grids-and-images/sematic-ui-part-2.pdf"
+  
+
+      } ,
+     {
+      
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "talk",
+  "title" : "Semantic-UI III: Tables ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-b/talk-4-tables/sematic-ui-part-3.png",
+  
+  
+
+  "summary" : "table · celled · padded · single line · striped · inverted",
+  "id": "talk-4-tables",
+  
+    "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-b/talk-4-tables/sematic-ui-part-3.pdf",
+    "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-b/talk-4-tables/sematic-ui-part-3.pdf"
+  
+
+      } ,
+     {
+      
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "lab",
+  "title" : "Lab-06b Semantic-UI",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-b/book-semantic-ui/img/main.png",
+  
+  
+
+  "summary" : "Create a revised version of bundle-store using the Semantic UI CSS framework.",
+  "id": "book-semantic-ui",
+  
+    "route" : "#lab/wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-b/book-semantic-ui"
+  
+
+      } 
+     ]
+  
+
+    } ,
+   {
+    
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "unit",
+  "title" : "06c: Colour ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-c/talk/colour.png",
+  
+  
+
+  "summary" : "06c: Colour",
+  "id": "unit-c",
+  
+    "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-c"
+  
+
+    
+  
+    ,"los" : [
+     {
+      
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "talk",
+  "title" : "Designing with Colour ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-c/talk/colour.png",
+  
+  
+
+  "summary" : "An introduction to Colour in the context of web site design.",
+  "id": "talk",
+  
+    "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-c/talk/colour.pdf",
+    "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-c/talk/colour.pdf"
+  
+
+      } ,
+     {
+      
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "panelvideo",
+  "title" : "Colour ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-c/panelvideo/",
+  
+  
+
+    "video" : "https://www.youtube.com/embed/JDKIYq42omM",
+  
+
+  "summary" : "Colour",
+  "id": "panelvideo",
+  
+    "route" : "JDKIYq42omM"
+  
+
+      } 
+     ]
+  
+
+    } ,
+   {
+    
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "unit",
+  "title" : "06d: Web Project Repositories ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-d/github-01-bundle/github.jpg",
+  
+  
+
+  "summary" : "06d: Web Project Repositories",
+  "id": "unit-d",
+  
+    "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-d"
+  
+
+    
+  
+    ,"los" : [
+     {
+      
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "github",
+  "title" : "Bundle Store ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-d/github-01-bundle/github.jpg",
+  
+  
+
+  "summary" : "Web project source from Lab 01, 02, 03, & 05",
+  "id": "github-01-bundle",
+  
+    "route" : "https://github.com/wit-hdip-comp-sci-2019/bundle-store"
+  
+
+      } ,
+     {
+      
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "github",
+  "title" : "Grid Layout ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-d/github-02-grid/github.jpg",
+  
+  
+
+  "summary" : "Web project source from Lab 03 & 04",
+  "id": "github-02-grid",
+  
+    "route" : "https://github.com/wit-hdip-comp-sci-2019/grid-layout"
+  
+
+      } ,
+     {
+      
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "github",
+  "title" : "Bundle Store - Templates ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-d/github-03-bundle-ejs/github.jpg",
+  
+  
+
+  "summary" : "Web project source from Lab 06 & 06",
+  "id": "github-03-bundle-ejs",
+  
+    "route" : "https://github.com/wit-hdip-comp-sci-2019/bundle-store-ejs"
+  
+
+      } 
+     ]
+  
+
+    } ,
+   {
+    
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "panelvideo",
+  "title" : "06a: Semantic + CSS Frameworks ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/panelvideo/",
+  
+  
+
+    "video" : "https://www.youtube.com/embed/ANCxR3YLoYU",
+  
+
+  "summary" : "06a: Semantic + CSS Frameworks",
+  "id": "panelvideo",
+  
+    "route" : "ANCxR3YLoYU"
+  
+
+    
+  
+
+    } 
+   ]
+
+  },
+ {
+  
+  
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "topic",
+  "title" : "07: Applications ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-07-starting-play/topic.png",
+  
+  
+
+  "summary" : "sites · apps · frameworks · command line · ide · java · request · response · front-end · back-end",
+  "id": "topic-07-starting-play",
+  
+    "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-07-starting-play"
+  
+,
+  "los": [
+   {
+    
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "unit",
+  "title" : "Introducing Play Framework ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-07-starting-play/unit-1/talk-1-introducing-dynamic-web/a-introduction-to-dynamic-web.png",
+  
+  
+
+  "summary" : "Introducing Play Framework",
+  "id": "unit-1",
+  
+    "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-07-starting-play/unit-1"
+  
+
+    
+  
+    ,"los" : [
+     {
+      
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "talk",
+  "title" : "Web Sites/Applications ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-07-starting-play/unit-1/talk-1-introducing-dynamic-web/a-introduction-to-dynamic-web.png",
+  
+  
+
+  "summary" : "theme · content · navigation · structure · templates · style · interaction · business logic · context · static · dynamic",
+  "id": "talk-1-introducing-dynamic-web",
+  
+    "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-07-starting-play/unit-1/talk-1-introducing-dynamic-web/a-introduction-to-dynamic-web.pdf",
+    "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-07-starting-play/unit-1/talk-1-introducing-dynamic-web/a-introduction-to-dynamic-web.pdf"
+  
+
+      } ,
+     {
+      
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "talk",
+  "title" : "Starting to Play ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-07-starting-play/unit-1/talk-2-starting-to-play/b-starting-to-play.png",
+  
+  
+
+  "summary" : "download · expand · path · verify · run · idealize · skeleton app",
+  "id": "talk-2-starting-to-play",
+  
+    "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-07-starting-play/unit-1/talk-2-starting-to-play/b-starting-to-play.pdf",
+    "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-07-starting-play/unit-1/talk-2-starting-to-play/b-starting-to-play.pdf"
+  
+
+      } ,
+     {
+      
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "lab",
+  "title" : "Lab-07a Play Setup",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-07-starting-play/unit-1/book-b-setup-play/img/main.png",
+  
+  
+
+    "video" : "https://www.youtube.com/embed/W0MJdoN1bHE",
+  
+
+  "summary" : "Install and test Git + the Play Framework (Note: the video shows java + play revisions a little behind your current installation)",
+  "id": "book-b-setup-play",
+  
+    "route" : "#lab/wit-tutors.github.io/tutors-demo/topic-07-starting-play/unit-1/book-b-setup-play"
+  
+
+      } 
+     ]
+  
+
+    } ,
+   {
+    
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "unit",
+  "title" : "Play Project Structure ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-07-starting-play/unit-2/talk-3-project-structure/web-app-intro.png",
+  
+  
+
+  "summary" : "",
+  "id": "unit-2",
+  
+    "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-07-starting-play/unit-2"
+  
+
+    
+  
+    ,"los" : [
+     {
+      
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "talk",
+  "title" : "Web App Introduction ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-07-starting-play/unit-2/talk-3-project-structure/web-app-intro.png",
+  
+  
+
+  "summary" : "structure  · front-end · backend · router · model  ·  view  ·  controller",
+  "id": "talk-3-project-structure",
+  
+    "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-07-starting-play/unit-2/talk-3-project-structure/web-app-intro.pdf",
+    "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-07-starting-play/unit-2/talk-3-project-structure/web-app-intro.pdf"
+  
+
+      } ,
+     {
+      
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "talk",
+  "title" : "Front-end ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-07-starting-play/unit-2/talk-4-front-end/front-end.jpg",
+  
+  
+
+  "summary" : "layout · partials · views · tags · about · dashboard · main · start",
+  "id": "talk-4-front-end",
+  
+    "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-07-starting-play/unit-2/talk-4-front-end/front-end.pdf",
+    "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-07-starting-play/unit-2/talk-4-front-end/front-end.pdf"
+  
+
+      } ,
+     {
+      
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "talk",
+  "title" : "Back-end ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-07-starting-play/unit-2/talk-5-back-end/back-end.png",
+  
+  
+
+  "summary" : "request · router · controller · view · response",
+  "id": "talk-5-back-end",
+  
+    "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-07-starting-play/unit-2/talk-5-back-end/back-end.pdf",
+    "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-07-starting-play/unit-2/talk-5-back-end/back-end.pdf"
+  
+
+      } ,
+     {
+      
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "lab",
+  "title" : "Lab-07b Playlist 1",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-07-starting-play/unit-2/book-c-playlist-1/img/main.jpg",
+  
+  
+
+    "video" : "https://www.youtube.com/embed/1qXvIIhGN9g",
+  
+
+  "summary" : "Import, rename and run a new starter project. Extend the project to include a Model. (Note: the video shows java + play revisions a little behind your current installation)",
+  "id": "book-c-playlist-1",
+  
+    "route" : "#lab/wit-tutors.github.io/tutors-demo/topic-07-starting-play/unit-2/book-c-playlist-1"
+  
+
+      } 
+     ]
+  
+
+    } ,
+   {
+    
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "panelvideo",
+  "title" : "07: Starting to Play ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-07-starting-play/panelvideo/",
+  
+  
+
+    "video" : "https://www.youtube.com/embed/8filEanmKTw",
+  
+
+  "summary" : "07: Starting to Play",
+  "id": "panelvideo",
+  
+    "route" : "8filEanmKTw"
+  
+
+    
+  
+
+    } 
+   ]
+
+  },
+ {
+  
+  
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "topic",
+  "title" : "08: Models & Views ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-08-introducing-mvc/topic.png",
+  
+  
+
+  "summary" : "Models · Views · Controllers  · conf  · Song · Playlist · ArrayList · OneToMany · Bootstrap",
+  "id": "topic-08-introducing-mvc",
+  
+    "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-08-introducing-mvc"
+  
+,
+  "los": [
+   {
+    
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "unit",
+  "title" : "Controllers + Views ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-08-introducing-mvc/unit-1/talk-0-mvc/mvc.png",
+  
+  
+
+  "summary" : "Controllers + Views",
+  "id": "unit-1",
+  
+    "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-08-introducing-mvc/unit-1"
+  
+
+    
+  
+    ,"los" : [
+     {
+      
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "talk",
+  "title" : "Model View Controller ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-08-introducing-mvc/unit-1/talk-0-mvc/mvc.png",
+  
+  
+
+  "summary" : "request · router · controller · view · response",
+  "id": "talk-0-mvc",
+  
+    "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-08-introducing-mvc/unit-1/talk-0-mvc/mvc.pdf",
+    "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-08-introducing-mvc/unit-1/talk-0-mvc/mvc.pdf"
+  
+
+      } ,
+     {
+      
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "talk",
+  "title" : "Views ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-08-introducing-mvc/unit-1/talk-1-views/views.png",
+  
+  
+
+  "summary" : "extends · set · list · list · menu · listsongs`",
+  "id": "talk-1-views",
+  
+    "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-08-introducing-mvc/unit-1/talk-1-views/views.pdf",
+    "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-08-introducing-mvc/unit-1/talk-1-views/views.pdf"
+  
+
+      } ,
+     {
+      
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "lab",
+  "title" : "Lab-08a Playlist-2",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-08-introducing-mvc/unit-1/book-a-playlist-2/img/main.png",
+  
+  
+
+  "summary" : "Move the playlist model into the database. Prime the database from a YAML file.",
+  "id": "book-a-playlist-2",
+  
+    "route" : "#lab/wit-tutors.github.io/tutors-demo/topic-08-introducing-mvc/unit-1/book-a-playlist-2"
+  
+
+      } 
+     ]
+  
+
+    } ,
+   {
+    
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "unit",
+  "title" : "Models ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-08-introducing-mvc/unit-2/talk-2-models/models.png",
+  
+  
+
+  "summary" : "Models",
+  "id": "unit-2",
+  
+    "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-08-introducing-mvc/unit-2"
+  
+
+    
+  
+    ,"los" : [
+     {
+      
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "talk",
+  "title" : "Models ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-08-introducing-mvc/unit-2/talk-2-models/models.png",
+  
+  
+
+  "summary" : "table  · row  · mem · yaml · Song · Playlist · ArrayList · OneToMany · OnApplicationStart",
+  "id": "talk-2-models",
+  
+    "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-08-introducing-mvc/unit-2/talk-2-models/models.pdf",
+    "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-08-introducing-mvc/unit-2/talk-2-models/models.pdf"
+  
+
+      } ,
+     {
+      
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "lab",
+  "title" : "Lab-08b Playlist-3",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-08-introducing-mvc/unit-2/book-b-playlist-3/img/main.png",
+  
+  
+
+  "summary" : "Move the playlists into their own view. Introduce routes for opening the playlist and also deleting individual songs.",
+  "id": "book-b-playlist-3",
+  
+    "route" : "#lab/wit-tutors.github.io/tutors-demo/topic-08-introducing-mvc/unit-2/book-b-playlist-3"
+  
+
+      } 
+     ]
+  
+
+    } ,
+   {
+    
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "panelvideo",
+  "title" : "08: Introducing MVC ",
+  "img" : "https://wit-tutors.github.io/tutors-demo/topic-08-introducing-mvc/panelvideo/",
+  
+  
+
+    "video" : "https://www.youtube.com/embed/938uuQ_P66Q",
+  
+
+  "summary" : "08: Introducing MVC",
+  "id": "panelvideo",
+  
+    "route" : "938uuQ_P66Q"
+  
+
+    
+  
+
+    } 
+   ]
+
   }
  ]
   }

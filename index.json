@@ -655,6 +655,998 @@
     } 
    ]
 
+  },
+ {
+    
+  
+    "properties" : {},
+  
+  "type" : "topic",
+  "title" : "04: Navigation & Style ",
+  "img" : "topic.jpeg",
+  "videoid" : "",
+  "objectives" : "<p>indentation · encoding · doctype · validity · semantics · entities · type attributes · quotations · nav · tab · current · padding · border · menu · li · ul · header · main · nav · aside · article · footer · section · figure</p>",
+  "folder" : "topic-04-navigation",
+  "link" : "index.html",
+  "los": [
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "unit",
+  "title" : "Navigation ",
+  "img" : "talk-1-css-selectors/d-css-selectors.png",
+  "videoid" : "",
+  "objectives" : "<p>Navigation</p>",
+  "folder" : "unit-a",
+  "link" : "index.html",
+  "los": [
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : "CSS Cascade ",
+  "img" : "d-css-selectors.png",
+  "videoid" : "none",
+  "objectives" : "<p>Example of selector rule evaluation with a worked example</p>",
+  "folder" : "talk-1-css-selectors",
+  "link" : "d-css-selectors.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : "Navigation ",
+  "img" : "css-navigation.jpeg",
+  "videoid" : "none",
+  "objectives" : "<p>nav · tab · current · padding · border · menu · li · ul</p>",
+  "folder" : "talk-2-navigation",
+  "link" : "css-navigation.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "lab",
+  "title" : "Lab-04 Navigation",
+  "img" : "img/main.png",
+  "videoid" : "none",
+  "objectives" : "<p>Devise a simple navigation metaphor for a web site.</p>",
+  "folder" : "book",
+  "link" : "index.html",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "panelvideo",
+  "title" : "04a: Navigation ",
+  "img" : "",
+  "videoid" : "PPMxjkDU4sY",
+  "objectives" : "",
+  "folder" : "panelvideo",
+  "link" : "PPMxjkDU4sY",
+  "los": [
+   ]
+
+    } 
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "unit",
+  "title" : "Design I: Introduction ",
+  "img" : "talk-1/design-guides.png",
+  "videoid" : "",
+  "objectives" : "<p>Design I: Introduction</p>",
+  "folder" : "unit-b",
+  "link" : "index.html",
+  "los": [
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : "Design Guides for the Web ",
+  "img" : "design-guides.png",
+  "videoid" : "none",
+  "objectives" : "<p>Introduction to web design principles</p>",
+  "folder" : "talk-1",
+  "link" : "design-guides.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "panelvideo",
+  "title" : "04b: Design Guides for the Web ",
+  "img" : "",
+  "videoid" : "w9HA7HuTTkw",
+  "objectives" : "",
+  "folder" : "panelvideo",
+  "link" : "w9HA7HuTTkw",
+  "los": [
+   ]
+
+    } 
+   ]
+
+    } 
+   ]
+
+  },
+ {
+    
+  
+    "properties" : {},
+  
+  "type" : "topic",
+  "title" : "05: Deployment & Templating ",
+  "img" : "topic.png",
+  "videoid" : "",
+  "objectives" : "<p>clients · servers · hosting · domains · dns · paths · http · command prompt · node · harp · surge · server · compile · EJS · dry · wet · engine · partials · includes · layouts · paths · compile</p>",
+  "folder" : "topic-05-templating",
+  "link" : "index.html",
+  "los": [
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "unit",
+  "title" : "Deployment ",
+  "img" : "talk-1-deployment/deployment.png",
+  "videoid" : "",
+  "objectives" : "<p>Deployment</p>",
+  "folder" : "unit-a",
+  "link" : "index.html",
+  "los": [
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : "Deployment ",
+  "img" : "deployment.png",
+  "videoid" : "none",
+  "objectives" : "<p>clients · servers · hosting · domains · dns · paths · http · response codes</p>",
+  "folder" : "talk-1-deployment",
+  "link" : "deployment.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : "Harp & Surge ",
+  "img" : "harp.png",
+  "videoid" : "none",
+  "objectives" : "<p>command prompt · node · harp · surge · server · compile</p>",
+  "folder" : "talk-2-harp-and-surge",
+  "link" : "harp.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "lab",
+  "title" : "Lab-05a Harp & Surge",
+  "img" : "img/main.png",
+  "videoid" : "yerJdD3IQ44",
+  "objectives" : "<p>Install software tools to serve a web site locally and also to deploy the web site to a public web server.</p>",
+  "folder" : "book-01-deployment",
+  "link" : "index.html",
+  "los": [
+   ]
+
+    } 
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "unit",
+  "title" : "Templating ",
+  "img" : "talk-4-templates/templates.png",
+  "videoid" : "",
+  "objectives" : "<p>Templating</p>",
+  "folder" : "unit-b",
+  "link" : "index.html",
+  "los": [
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : "Templates ",
+  "img" : "templates.png",
+  "videoid" : "none",
+  "objectives" : "<p>EJS · dry · wet · engine · partials · includes · layouts · paths · compile</p>",
+  "folder" : "talk-4-templates",
+  "link" : "templates.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "lab",
+  "title" : "Lab-05b Templates",
+  "img" : "img/main.png",
+  "videoid" : "none",
+  "objectives" : "<p>Refactor the bundle-store site to use EJS templates</p>",
+  "folder" : "book-templates",
+  "link" : "index.html",
+  "los": [
+   ]
+
+    } 
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "unit",
+  "title" : "Design II: Typography (+ html coding standards) ",
+  "img" : "talk-1-typograpahy/typography.png",
+  "videoid" : "",
+  "objectives" : "<p>Design II: Typography (+ html coding standards)</p>",
+  "folder" : "unit-c",
+  "link" : "index.html",
+  "los": [
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : "Typography ",
+  "img" : "typography.png",
+  "videoid" : "none",
+  "objectives" : "<p>The fundamentals of fonts &amp; typefaces in the context of web design.</p>",
+  "folder" : "talk-1-typograpahy",
+  "link" : "typography.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : "HTML Style Guide ",
+  "img" : "coding-standards-html.jpg",
+  "videoid" : "none",
+  "objectives" : "<p>indentation · encoding · doctype · validity ·  semantics · entities · type attributes · quotations</p>",
+  "folder" : "talk-3-coding-standards-html",
+  "link" : "coding-standards-html.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : "Semantic HTML ",
+  "img" : "semantic-html.png",
+  "videoid" : "none",
+  "objectives" : "<p>header · main · nav · aside · article · footer · section · figure</p>",
+  "folder" : "talk-3-semantic-html",
+  "link" : "semantic-html.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "panelvideo",
+  "title" : "05b: Typography ",
+  "img" : "",
+  "videoid" : "Z308Hm3Pa78",
+  "objectives" : "",
+  "folder" : "panelvideo",
+  "link" : "Z308Hm3Pa78",
+  "los": [
+   ]
+
+    } 
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "panelvideo",
+  "title" : "05a: Templating ",
+  "img" : "",
+  "videoid" : "b4qsSshHKoA",
+  "objectives" : "",
+  "folder" : "panelvideo",
+  "link" : "b4qsSshHKoA",
+  "los": [
+   ]
+
+    } 
+   ]
+
+  },
+ {
+    
+  
+    "properties" : {},
+  
+  "type" : "topic",
+  "title" : "06: Semantic + CSS Frameworks ",
+  "img" : "topic.jpg",
+  "videoid" : "",
+  "objectives" : "<p>review  · bootstrap · semantic ui · container · segment · grid · stackable · tables · icons · images  · row · col</p>",
+  "folder" : "topic-06-css-frameworks",
+  "link" : "index.html",
+  "los": [
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "unit",
+  "title" : "06a: Semantic HTML  ",
+  "img" : "talk-1-labs-review/lab-review.png",
+  "videoid" : "",
+  "objectives" : "<p>06a: Semantic HTML</p>",
+  "folder" : "unit-a",
+  "link" : "index.html",
+  "los": [
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : " Lab Review ",
+  "img" : "lab-review.png",
+  "videoid" : "none",
+  "objectives" : "<p>lab-1  · lab-2 ·lab-3 · lab-4 · lab-5 · lab-6</p>",
+  "folder" : "talk-1-labs-review",
+  "link" : "lab-review.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : "Semantic HTML ",
+  "img" : "semantic-html.png",
+  "videoid" : "none",
+  "objectives" : "<p>header · main · nav · aside · article · footer · section · figure</p>",
+  "folder" : "talk-1-semantic-html",
+  "link" : "semantic-html.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : "CSS Style Guide ",
+  "img" : "css-guide.png",
+  "videoid" : "none",
+  "objectives" : "<p>validity · names · name style · selectors · shorthand · delimiters · order · stops · quotations</p>",
+  "folder" : "talk-2-css-style-guide",
+  "link" : "css-guide.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "lab",
+  "title" : "Lab-06a Nav Params",
+  "img" : "img/main.jpg",
+  "videoid" : "none",
+  "objectives" : "<p>Introduce semantic elements. Define a parametrised navigation partial</p>",
+  "folder" : "book-nav-2",
+  "link" : "index.html",
+  "los": [
+   ]
+
+    } 
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "unit",
+  "title" : "06b: CSS Frameworks & Semantic UI ",
+  "img" : "talk-1-css-frameworks/sematic-ui-part-1.png",
+  "videoid" : "",
+  "objectives" : "<p>06b: CSS Frameworks &amp; Semantic UI</p>",
+  "folder" : "unit-b",
+  "link" : "index.html",
+  "los": [
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : "Semantic-UI I: Container & Segment ",
+  "img" : "sematic-ui-part-1.png",
+  "videoid" : "none",
+  "objectives" : "<p>project structure · semantic ui archive · container · segment · raised · stacked</p>",
+  "folder" : "talk-1-css-frameworks",
+  "link" : "sematic-ui-part-1.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : "Semantic-UI II: Grids & Images ",
+  "img" : "sematic-ui-part-2.png",
+  "videoid" : "none",
+  "objectives" : "<p>row · column · aligned · center · top  · image · small · medium · large</p>",
+  "folder" : "talk-2-grids-and-images",
+  "link" : "sematic-ui-part-2.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : "Semantic-UI III: Tables ",
+  "img" : "sematic-ui-part-3.png",
+  "videoid" : "none",
+  "objectives" : "<p>table · celled · padded · single line · striped · inverted</p>",
+  "folder" : "talk-4-tables",
+  "link" : "sematic-ui-part-3.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "lab",
+  "title" : "Lab-06b Semantic-UI",
+  "img" : "img/main.png",
+  "videoid" : "none",
+  "objectives" : "<p>Create a revised version of bundle-store using the Semantic UI CSS framework.</p>",
+  "folder" : "book-semantic-ui",
+  "link" : "index.html",
+  "los": [
+   ]
+
+    } 
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "unit",
+  "title" : "06c: Colour ",
+  "img" : "talk/colour.png",
+  "videoid" : "",
+  "objectives" : "<p>06c: Colour</p>",
+  "folder" : "unit-c",
+  "link" : "index.html",
+  "los": [
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : "Designing with Colour ",
+  "img" : "colour.png",
+  "videoid" : "none",
+  "objectives" : "<p>An introduction to Colour in the context of web site design.</p>",
+  "folder" : "talk",
+  "link" : "colour.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "panelvideo",
+  "title" : "Colour ",
+  "img" : "",
+  "videoid" : "JDKIYq42omM",
+  "objectives" : "<p>Colour</p>",
+  "folder" : "panelvideo",
+  "link" : "JDKIYq42omM",
+  "los": [
+   ]
+
+    } 
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "unit",
+  "title" : "06d: Web Project Repositories ",
+  "img" : "github-01-bundle/github.jpg",
+  "videoid" : "",
+  "objectives" : "<p>06d: Web Project Repositories</p>",
+  "folder" : "unit-d",
+  "link" : "index.html",
+  "los": [
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "github",
+  "title" : "Bundle Store ",
+  "img" : "github.jpg",
+  "videoid" : "none",
+  "objectives" : "<p>Web project source from Lab 01, 02, 03, &amp; 05</p>",
+  "folder" : "github-01-bundle",
+  "link" : "https://github.com/wit-hdip-comp-sci-2019/bundle-store",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "github",
+  "title" : "Grid Layout ",
+  "img" : "github.jpg",
+  "videoid" : "none",
+  "objectives" : "<p>Web project source from Lab 03 &amp; 04</p>",
+  "folder" : "github-02-grid",
+  "link" : "https://github.com/wit-hdip-comp-sci-2019/grid-layout",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "github",
+  "title" : "Bundle Store - Templates ",
+  "img" : "github.jpg",
+  "videoid" : "none",
+  "objectives" : "<p>Web project source from Lab 06 &amp; 06</p>",
+  "folder" : "github-03-bundle-ejs",
+  "link" : "https://github.com/wit-hdip-comp-sci-2019/bundle-store-ejs",
+  "los": [
+   ]
+
+    } 
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "panelvideo",
+  "title" : "06a: Semantic + CSS Frameworks ",
+  "img" : "",
+  "videoid" : "ANCxR3YLoYU",
+  "objectives" : "<p>06a: Semantic + CSS Frameworks</p>",
+  "folder" : "panelvideo",
+  "link" : "ANCxR3YLoYU",
+  "los": [
+   ]
+
+    } 
+   ]
+
+  },
+ {
+    
+  
+    "properties" : {},
+  
+  "type" : "topic",
+  "title" : "07: Applications ",
+  "img" : "topic.png",
+  "videoid" : "",
+  "objectives" : "<p>sites · apps · frameworks · command line · ide · java · request · response · front-end · back-end</p>",
+  "folder" : "topic-07-starting-play",
+  "link" : "index.html",
+  "los": [
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "unit",
+  "title" : "Introducing Play Framework ",
+  "img" : "talk-1-introducing-dynamic-web/a-introduction-to-dynamic-web.png",
+  "videoid" : "",
+  "objectives" : "<p>Introducing Play Framework</p>",
+  "folder" : "unit-1",
+  "link" : "index.html",
+  "los": [
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : "Web Sites/Applications ",
+  "img" : "a-introduction-to-dynamic-web.png",
+  "videoid" : "none",
+  "objectives" : "<p>theme · content · navigation · structure · templates · style · interaction · business logic · context · static · dynamic</p>",
+  "folder" : "talk-1-introducing-dynamic-web",
+  "link" : "a-introduction-to-dynamic-web.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : "Starting to Play ",
+  "img" : "b-starting-to-play.png",
+  "videoid" : "none",
+  "objectives" : "<p>download · expand · path · verify · run · idealize · skeleton app</p>",
+  "folder" : "talk-2-starting-to-play",
+  "link" : "b-starting-to-play.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "lab",
+  "title" : "Lab-07a Play Setup",
+  "img" : "img/main.png",
+  "videoid" : "W0MJdoN1bHE",
+  "objectives" : "<p>Install and test Git + the Play Framework (Note: the video shows java + play revisions a little behind your current installation)</p>",
+  "folder" : "book-b-setup-play",
+  "link" : "index.html",
+  "los": [
+   ]
+
+    } 
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "unit",
+  "title" : "Play Project Structure ",
+  "img" : "talk-3-project-structure/web-app-intro.png",
+  "videoid" : "",
+  "objectives" : "",
+  "folder" : "unit-2",
+  "link" : "index.html",
+  "los": [
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : "Web App Introduction ",
+  "img" : "web-app-intro.png",
+  "videoid" : "none",
+  "objectives" : "<p>structure  · front-end · backend · router · model  ·  view  ·  controller</p>",
+  "folder" : "talk-3-project-structure",
+  "link" : "web-app-intro.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : "Front-end ",
+  "img" : "front-end.jpg",
+  "videoid" : "none",
+  "objectives" : "<p>layout · partials · views · tags · about · dashboard · main · start</p>",
+  "folder" : "talk-4-front-end",
+  "link" : "front-end.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : "Back-end ",
+  "img" : "back-end.png",
+  "videoid" : "none",
+  "objectives" : "<p>request · router · controller · view · response</p>",
+  "folder" : "talk-5-back-end",
+  "link" : "back-end.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "lab",
+  "title" : "Lab-07b Playlist 1",
+  "img" : "img/main.jpg",
+  "videoid" : "1qXvIIhGN9g",
+  "objectives" : "<p>Import, rename and run a new starter project. Extend the project to include a Model. (Note: the video shows java + play revisions a little behind your current installation)</p>",
+  "folder" : "book-c-playlist-1",
+  "link" : "index.html",
+  "los": [
+   ]
+
+    } 
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "panelvideo",
+  "title" : "07: Starting to Play ",
+  "img" : "",
+  "videoid" : "8filEanmKTw",
+  "objectives" : "<p>07: Starting to Play</p>",
+  "folder" : "panelvideo",
+  "link" : "8filEanmKTw",
+  "los": [
+   ]
+
+    } 
+   ]
+
+  },
+ {
+    
+  
+    "properties" : {},
+  
+  "type" : "topic",
+  "title" : "08: Models & Views ",
+  "img" : "topic.png",
+  "videoid" : "",
+  "objectives" : "<p>Models · Views · Controllers  · conf  · Song · Playlist · ArrayList · OneToMany · Bootstrap</p>",
+  "folder" : "topic-08-introducing-mvc",
+  "link" : "index.html",
+  "los": [
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "unit",
+  "title" : "Controllers + Views ",
+  "img" : "talk-0-mvc/mvc.png",
+  "videoid" : "",
+  "objectives" : "<p>Controllers + Views</p>",
+  "folder" : "unit-1",
+  "link" : "index.html",
+  "los": [
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : "Model View Controller ",
+  "img" : "mvc.png",
+  "videoid" : "none",
+  "objectives" : "<p>request · router · controller · view · response</p>",
+  "folder" : "talk-0-mvc",
+  "link" : "mvc.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : "Views ",
+  "img" : "views.png",
+  "videoid" : "none",
+  "objectives" : "<p>extends · set · list · list · menu · listsongs`</p>",
+  "folder" : "talk-1-views",
+  "link" : "views.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "lab",
+  "title" : "Lab-08a Playlist-2",
+  "img" : "img/main.png",
+  "videoid" : "none",
+  "objectives" : "<p>Move the playlist model into the database. Prime the database from a YAML file.</p>",
+  "folder" : "book-a-playlist-2",
+  "link" : "index.html",
+  "los": [
+   ]
+
+    } 
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "unit",
+  "title" : "Models ",
+  "img" : "talk-2-models/models.png",
+  "videoid" : "",
+  "objectives" : "<p>Models</p>",
+  "folder" : "unit-2",
+  "link" : "index.html",
+  "los": [
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : "Models ",
+  "img" : "models.png",
+  "videoid" : "none",
+  "objectives" : "<p>table  · row  · mem · yaml · Song · Playlist · ArrayList · OneToMany · OnApplicationStart</p>",
+  "folder" : "talk-2-models",
+  "link" : "models.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "lab",
+  "title" : "Lab-08b Playlist-3",
+  "img" : "img/main.png",
+  "videoid" : "none",
+  "objectives" : "<p>Move the playlists into their own view. Introduce routes for opening the playlist and also deleting individual songs.</p>",
+  "folder" : "book-b-playlist-3",
+  "link" : "index.html",
+  "los": [
+   ]
+
+    } 
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "panelvideo",
+  "title" : "08: Introducing MVC ",
+  "img" : "",
+  "videoid" : "938uuQ_P66Q",
+  "objectives" : "<p>08: Introducing MVC</p>",
+  "folder" : "panelvideo",
+  "link" : "938uuQ_P66Q",
+  "los": [
+   ]
+
+    } 
+   ]
+
   }
  ]
   }
