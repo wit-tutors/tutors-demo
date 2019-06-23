@@ -24,7 +24,6 @@
 
   "summary" : "html · css · layout · web apps · web frameworks · deployment",
   "id": "tutors-demo",
-
   
     "route" : "#course/wit-tutors.github.io/tutors-demo/"
   
@@ -45,7 +44,6 @@
 
   "summary" : "specifications · assignments · grading guidelines · schedule · submission ·",
   "id": "topic---assignments",
-
   
     "route" : "#topic/wit-tutors.github.io/tutors-demo/topic---assignments"
   
@@ -66,7 +64,6 @@
 
   "summary" : "",
   "id": "unit-assign-1",
-
   
     "route" : "#topic/wit-tutors.github.io/tutors-demo/topic---assignments/unit-assign-1"
   
@@ -89,7 +86,6 @@
 
   "summary" : "Specification for Assignment 1",
   "id": "talk-2-assignment-1",
-
   
     "pdf" : "https://wit-tutors.github.io/tutors-demo/topic---assignments/unit-assign-1/talk-2-assignment-1/project-1.pdf",
     "route" : "#talk/wit-tutors.github.io/tutors-demo/topic---assignments/unit-assign-1/talk-2-assignment-1/project-1.pdf"
@@ -111,7 +107,6 @@
 
   "summary" : "An archive of a word document to be submitted with assignment 1",
   "id": "archive",
-
   
     "route" : "https://wit-tutors.github.io/tutors-demo/topic---assignments/unit-assign-1/archive/template.docx.zip"
   
@@ -132,7 +127,6 @@
 
   "summary" : "Moodle assignment dropbox for Assignment 1",
   "id": "web",
-
   
     "route" : "https://moodle.wit.ie/course/view.php?id=132121"
   
@@ -157,7 +151,6 @@
 
   "summary" : "Assignment 2",
   "id": "unit-assign-2",
-
   
     "route" : "#topic/wit-tutors.github.io/tutors-demo/topic---assignments/unit-assign-2"
   
@@ -180,7 +173,6 @@
 
   "summary" : "Specification for Assignment 2",
   "id": "talk-3-assignment-2",
-
   
     "pdf" : "https://wit-tutors.github.io/tutors-demo/topic---assignments/unit-assign-2/talk-3-assignment-2/assignment-2.pdf",
     "route" : "#talk/wit-tutors.github.io/tutors-demo/topic---assignments/unit-assign-2/talk-3-assignment-2/assignment-2.pdf"
@@ -205,9 +197,8 @@
 
   "summary" : "Assignment 2 Briefing",
   "id": "panelvideo",
-
   
-    "route" : "ye9t_85fWzI"
+    "route" : "#video/wit-tutors.github.io/tutors-demo/topic---assignments/unit-assign-2/panelvideo/ye9t_85fWzI",
   
 
       } ,
@@ -226,7 +217,6 @@
 
   "summary" : "An archive of a word document to be submitted with assignment 2",
   "id": "archive",
-
   
     "route" : "https://wit-tutors.github.io/tutors-demo/topic---assignments/unit-assign-2/archive/template.docx.zip"
   
@@ -247,7 +237,6 @@
 
   "summary" : "Moodle assignment dropbox for Assignment 2",
   "id": "web",
-
   
     "route" : "https://moodle.wit.ie/course/view.php?id=132121"
   
@@ -276,7 +265,6 @@
 
   "summary" : "topics · schedules · calendar · assignments · first lab",
   "id": "topic-00-overview",
-
   
     "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-00-overview"
   
@@ -297,7 +285,6 @@
 
   "summary" : "Course Preview + Html Editing",
   "id": "unit-a-course-review",
-
   
     "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-00-overview/unit-a-course-review"
   
@@ -320,7 +307,6 @@
 
   "summary" : "calendar · topics · assessments · schedule",
   "id": "talk-1-overview",
-
   
     "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-00-overview/unit-a-course-review/talk-1-overview/a-introduction.pdf",
     "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-00-overview/unit-a-course-review/talk-1-overview/a-introduction.pdf"
@@ -342,7 +328,6 @@
 
   "summary" : "Introduction to Editing and viewing a html page",
   "id": "book-a",
-
   
     "route" : "#lab/wit-tutors.github.io/tutors-demo/topic-00-overview/unit-a-course-review/book-a"
   
@@ -371,7 +356,6 @@
 
   "summary" : "web · client/server · browser · html · documents · elements · attributes · links ·images · page structure · nesting · wireframing · block · inline",
   "id": "topic-01-introducing-html",
-
   
     "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-01-introducing-html"
   
@@ -392,7 +376,6 @@
 
   "summary" : "HTML Fundamentals",
   "id": "unit",
-
   
     "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-01-introducing-html/unit"
   
@@ -415,7 +398,6 @@
 
   "summary" : "code · html · http · standards · evolution · role of client · role of servers · learning resources",
   "id": "talk-2-introduction",
-
   
     "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-01-introducing-html/unit/talk-2-introduction/a-introduction.pdf",
     "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-01-introducing-html/unit/talk-2-introduction/a-introduction.pdf"
@@ -437,7 +419,6 @@
 
   "summary" : "elements  · attributes · paths · absolute · relative · nesting · block · inline · labs",
   "id": "talk-3-html",
-
   
     "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-01-introducing-html/unit/talk-3-html/b-html-page-structure.pdf",
     "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-01-introducing-html/unit/talk-3-html/b-html-page-structure.pdf"
@@ -459,7 +440,6 @@
 
   "summary" : "folders · head · title · link · image · references",
   "id": "book-b",
-
   
     "route" : "#lab/wit-tutors.github.io/tutors-demo/topic-01-introducing-html/unit/book-b"
   
@@ -483,9 +463,8 @@
 
   "summary" : "01: Introducing HTML",
   "id": "panelvideo",
-
   
-    "route" : "cQRSDIuYfIM"
+    "route" : "#video/wit-tutors.github.io/tutors-demo/topic-01-introducing-html/unit/panelvideo/cQRSDIuYfIM",
   
 
       } 
@@ -512,7 +491,6 @@
 
   "summary" : "markup · style · function· stylesheet · rules · selectors · declarations· properties · values · classes · ids · inheritance",
   "id": "topic-02-introducing-css",
-
   
     "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-02-introducing-css"
   
@@ -533,7 +511,6 @@
 
   "summary" : "HTML & CSS",
   "id": "unit-a",
-
   
     "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-02-introducing-css/unit-a"
   
@@ -556,7 +533,6 @@
 
   "summary" : "structural elements ·  head elements · text elements · list elements · image elements · shared attributes",
   "id": "talk-1-html-review",
-
   
     "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-02-introducing-css/unit-a/talk-1-html-review/a-html-elements.pdf",
     "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-02-introducing-css/unit-a/talk-1-html-review/a-html-elements.pdf"
@@ -578,7 +554,6 @@
 
   "summary" : "markup · presentation · style · rules · selectors · declarations · properties · values",
   "id": "talk-2-introducing-css",
-
   
     "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-02-introducing-css/unit-a/talk-2-introducing-css/b-introducing-css.pdf",
     "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-02-introducing-css/unit-a/talk-2-introducing-css/b-introducing-css.pdf"
@@ -604,7 +579,6 @@
 
   "summary" : "CSS Fundamentals",
   "id": "unit-b",
-
   
     "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-02-introducing-css/unit-b"
   
@@ -627,7 +601,6 @@
 
   "summary" : "rule structure · combining rules · combining selectors",
   "id": "talk-3-css-rules",
-
   
     "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-02-introducing-css/unit-b/talk-3-css-rules/c-css-rules.pdf",
     "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-02-introducing-css/unit-b/talk-3-css-rules/c-css-rules.pdf"
@@ -649,7 +622,6 @@
 
   "summary" : "class · id · div",
   "id": "talk-4-class-id-div",
-
   
     "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-02-introducing-css/unit-b/talk-4-class-id-div/class-id-div.pdf",
     "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-02-introducing-css/unit-b/talk-4-class-id-div/class-id-div.pdf"
@@ -671,7 +643,6 @@
 
   "summary" : "inheritance · classes · fonts · colours · indentation · best practices",
   "id": "book",
-
   
     "route" : "#lab/wit-tutors.github.io/tutors-demo/topic-02-introducing-css/unit-b/book"
   
@@ -699,9 +670,8 @@
 
   "summary" : "02: Introducing CSS",
   "id": "panelvideo",
-
   
-    "route" : "yyS7nCNLNOc"
+    "route" : "#video/wit-tutors.github.io/tutors-demo/topic-02-introducing-css/panelvideo/yyS7nCNLNOc",
   
 
     
@@ -727,7 +697,6 @@
 
   "summary" : "padding · border · margin · width · grid · grid-template-columns · grid-column-start · span  · grid-gap",
   "id": "topic-03-box-model",
-
   
     "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-03-box-model"
   
@@ -748,7 +717,6 @@
 
   "summary" : "Box Model",
   "id": "unit-a",
-
   
     "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-03-box-model/unit-a"
   
@@ -771,7 +739,6 @@
 
   "summary" : "standards  · w3c · whatwg · sgml · xhtml · html5 ·",
   "id": "talk-1-html-evolution",
-
   
     "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-03-box-model/unit-a/talk-1-html-evolution/d-html_evolution.pdf",
     "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-03-box-model/unit-a/talk-1-html-evolution/d-html_evolution.pdf"
@@ -793,7 +760,6 @@
 
   "summary" : "content · padding · border · margin · variations · fonts · dimensions",
   "id": "talk-2-box-model",
-
   
     "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-03-box-model/unit-a/talk-2-box-model/a-box-model-1.pdf",
     "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-03-box-model/unit-a/talk-2-box-model/a-box-model-1.pdf"
@@ -815,7 +781,6 @@
 
   "summary" : "border-width · border-style · padding · width · margin-left · text-align · float",
   "id": "talk-3-box-example",
-
   
     "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-03-box-model/unit-a/talk-3-box-example/a-box-model-example.pdf",
     "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-03-box-model/unit-a/talk-3-box-example/a-box-model-example.pdf"
@@ -837,7 +802,6 @@
 
   "summary" : "fonts · content · images · classes · folding editor · sidebar · float",
   "id": "book-a",
-
   
     "route" : "#lab/wit-tutors.github.io/tutors-demo/topic-03-box-model/unit-a/book-a"
   
@@ -862,7 +826,6 @@
 
   "summary" : "Layout",
   "id": "unit-b",
-
   
     "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-03-box-model/unit-b"
   
@@ -885,7 +848,6 @@
 
   "summary" : "Some important characteristics of the box model layout rules.",
   "id": "talk-2-box",
-
   
     "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-03-box-model/unit-b/talk-2-box/box.pdf",
     "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-03-box-model/unit-b/talk-2-box/box.pdf"
@@ -907,7 +869,6 @@
 
   "summary" : "The new Grid standard support a clean, simple way of defining multi-column layouts",
   "id": "talk-4-grid",
-
   
     "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-03-box-model/unit-b/talk-4-grid/grid.pdf",
     "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-03-box-model/unit-b/talk-4-grid/grid.pdf"
@@ -929,7 +890,6 @@
 
   "summary" : "header · maincontent · navigation · footer · primary · secondary",
   "id": "book-b",
-
   
     "route" : "#lab/wit-tutors.github.io/tutors-demo/topic-03-box-model/unit-b/book-b"
   
@@ -957,9 +917,8 @@
 
   "summary" : "",
   "id": "panelvideo",
-
   
-    "route" : "3fSWeaBIIyg"
+    "route" : "#video/wit-tutors.github.io/tutors-demo/topic-03-box-model/panelvideo/3fSWeaBIIyg",
   
 
     
@@ -985,7 +944,6 @@
 
   "summary" : "indentation · encoding · doctype · validity · semantics · entities · type attributes · quotations · nav · tab · current · padding · border · menu · li · ul · header · main · nav · aside · article · footer · section · figure",
   "id": "topic-04-navigation",
-
   
     "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-04-navigation"
   
@@ -1006,7 +964,6 @@
 
   "summary" : "Navigation",
   "id": "unit-a",
-
   
     "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-04-navigation/unit-a"
   
@@ -1029,7 +986,6 @@
 
   "summary" : "Example of selector rule evaluation with a worked example",
   "id": "talk-1-css-selectors",
-
   
     "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-04-navigation/unit-a/talk-1-css-selectors/d-css-selectors.pdf",
     "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-04-navigation/unit-a/talk-1-css-selectors/d-css-selectors.pdf"
@@ -1051,7 +1007,6 @@
 
   "summary" : "nav · tab · current · padding · border · menu · li · ul",
   "id": "talk-2-navigation",
-
   
     "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-04-navigation/unit-a/talk-2-navigation/css-navigation.pdf",
     "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-04-navigation/unit-a/talk-2-navigation/css-navigation.pdf"
@@ -1073,7 +1028,6 @@
 
   "summary" : "Devise a simple navigation metaphor for a web site.",
   "id": "book",
-
   
     "route" : "#lab/wit-tutors.github.io/tutors-demo/topic-04-navigation/unit-a/book"
   
@@ -1097,9 +1051,8 @@
 
   "summary" : "",
   "id": "panelvideo",
-
   
-    "route" : "PPMxjkDU4sY"
+    "route" : "#video/wit-tutors.github.io/tutors-demo/topic-04-navigation/unit-a/panelvideo/PPMxjkDU4sY",
   
 
       } 
@@ -1122,7 +1075,6 @@
 
   "summary" : "Design I: Introduction",
   "id": "unit-b",
-
   
     "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-04-navigation/unit-b"
   
@@ -1145,7 +1097,6 @@
 
   "summary" : "Introduction to web design principles",
   "id": "talk-1",
-
   
     "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-04-navigation/unit-b/talk-1/design-guides.pdf",
     "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-04-navigation/unit-b/talk-1/design-guides.pdf"
@@ -1170,9 +1121,8 @@
 
   "summary" : "",
   "id": "panelvideo",
-
   
-    "route" : "w9HA7HuTTkw"
+    "route" : "#video/wit-tutors.github.io/tutors-demo/topic-04-navigation/unit-b/panelvideo/w9HA7HuTTkw",
   
 
       } 
@@ -1199,7 +1149,6 @@
 
   "summary" : "clients · servers · hosting · domains · dns · paths · http · command prompt · node · harp · surge · server · compile · EJS · dry · wet · engine · partials · includes · layouts · paths · compile",
   "id": "topic-05-templating",
-
   
     "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-05-templating"
   
@@ -1220,7 +1169,6 @@
 
   "summary" : "Deployment",
   "id": "unit-a",
-
   
     "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-05-templating/unit-a"
   
@@ -1243,7 +1191,6 @@
 
   "summary" : "clients · servers · hosting · domains · dns · paths · http · response codes",
   "id": "talk-1-deployment",
-
   
     "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-05-templating/unit-a/talk-1-deployment/deployment.pdf",
     "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-05-templating/unit-a/talk-1-deployment/deployment.pdf"
@@ -1265,7 +1212,6 @@
 
   "summary" : "command prompt · node · harp · surge · server · compile",
   "id": "talk-2-harp-and-surge",
-
   
     "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-05-templating/unit-a/talk-2-harp-and-surge/harp.pdf",
     "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-05-templating/unit-a/talk-2-harp-and-surge/harp.pdf"
@@ -1290,7 +1236,6 @@
 
   "summary" : "Install software tools to serve a web site locally and also to deploy the web site to a public web server.",
   "id": "book-01-deployment",
-
   
     "route" : "#lab/wit-tutors.github.io/tutors-demo/topic-05-templating/unit-a/book-01-deployment"
   
@@ -1315,7 +1260,6 @@
 
   "summary" : "Templating",
   "id": "unit-b",
-
   
     "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-05-templating/unit-b"
   
@@ -1338,7 +1282,6 @@
 
   "summary" : "EJS · dry · wet · engine · partials · includes · layouts · paths · compile",
   "id": "talk-4-templates",
-
   
     "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-05-templating/unit-b/talk-4-templates/templates.pdf",
     "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-05-templating/unit-b/talk-4-templates/templates.pdf"
@@ -1360,7 +1303,6 @@
 
   "summary" : "Refactor the bundle-store site to use EJS templates",
   "id": "book-templates",
-
   
     "route" : "#lab/wit-tutors.github.io/tutors-demo/topic-05-templating/unit-b/book-templates"
   
@@ -1385,7 +1327,6 @@
 
   "summary" : "Design II: Typography (+ html coding standards)",
   "id": "unit-c",
-
   
     "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-05-templating/unit-c"
   
@@ -1408,7 +1349,6 @@
 
   "summary" : "The fundamentals of fonts & typefaces in the context of web design.",
   "id": "talk-1-typograpahy",
-
   
     "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-05-templating/unit-c/talk-1-typograpahy/typography.pdf",
     "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-05-templating/unit-c/talk-1-typograpahy/typography.pdf"
@@ -1430,7 +1370,6 @@
 
   "summary" : "indentation · encoding · doctype · validity ·  semantics · entities · type attributes · quotations",
   "id": "talk-3-coding-standards-html",
-
   
     "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-05-templating/unit-c/talk-3-coding-standards-html/coding-standards-html.pdf",
     "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-05-templating/unit-c/talk-3-coding-standards-html/coding-standards-html.pdf"
@@ -1452,7 +1391,6 @@
 
   "summary" : "header · main · nav · aside · article · footer · section · figure",
   "id": "talk-3-semantic-html",
-
   
     "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-05-templating/unit-c/talk-3-semantic-html/semantic-html.pdf",
     "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-05-templating/unit-c/talk-3-semantic-html/semantic-html.pdf"
@@ -1477,9 +1415,8 @@
 
   "summary" : "",
   "id": "panelvideo",
-
   
-    "route" : "Z308Hm3Pa78"
+    "route" : "#video/wit-tutors.github.io/tutors-demo/topic-05-templating/unit-c/panelvideo/Z308Hm3Pa78",
   
 
       } 
@@ -1505,9 +1442,8 @@
 
   "summary" : "",
   "id": "panelvideo",
-
   
-    "route" : "b4qsSshHKoA"
+    "route" : "#video/wit-tutors.github.io/tutors-demo/topic-05-templating/panelvideo/b4qsSshHKoA",
   
 
     
@@ -1533,7 +1469,6 @@
 
   "summary" : "review  · bootstrap · semantic ui · container · segment · grid · stackable · tables · icons · images  · row · col",
   "id": "topic-06-css-frameworks",
-
   
     "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-06-css-frameworks"
   
@@ -1554,7 +1489,6 @@
 
   "summary" : "06a: Semantic HTML",
   "id": "unit-a",
-
   
     "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-a"
   
@@ -1577,7 +1511,6 @@
 
   "summary" : "lab-1  · lab-2 ·lab-3 · lab-4 · lab-5 · lab-6",
   "id": "talk-1-labs-review",
-
   
     "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-a/talk-1-labs-review/lab-review.pdf",
     "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-a/talk-1-labs-review/lab-review.pdf"
@@ -1599,7 +1532,6 @@
 
   "summary" : "header · main · nav · aside · article · footer · section · figure",
   "id": "talk-1-semantic-html",
-
   
     "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-a/talk-1-semantic-html/semantic-html.pdf",
     "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-a/talk-1-semantic-html/semantic-html.pdf"
@@ -1621,7 +1553,6 @@
 
   "summary" : "validity · names · name style · selectors · shorthand · delimiters · order · stops · quotations",
   "id": "talk-2-css-style-guide",
-
   
     "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-a/talk-2-css-style-guide/css-guide.pdf",
     "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-a/talk-2-css-style-guide/css-guide.pdf"
@@ -1643,7 +1574,6 @@
 
   "summary" : "Introduce semantic elements. Define a parametrised navigation partial",
   "id": "book-nav-2",
-
   
     "route" : "#lab/wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-a/book-nav-2"
   
@@ -1668,7 +1598,6 @@
 
   "summary" : "06b: CSS Frameworks & Semantic UI",
   "id": "unit-b",
-
   
     "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-b"
   
@@ -1691,7 +1620,6 @@
 
   "summary" : "project structure · semantic ui archive · container · segment · raised · stacked",
   "id": "talk-1-css-frameworks",
-
   
     "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-b/talk-1-css-frameworks/sematic-ui-part-1.pdf",
     "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-b/talk-1-css-frameworks/sematic-ui-part-1.pdf"
@@ -1713,7 +1641,6 @@
 
   "summary" : "row · column · aligned · center · top  · image · small · medium · large",
   "id": "talk-2-grids-and-images",
-
   
     "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-b/talk-2-grids-and-images/sematic-ui-part-2.pdf",
     "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-b/talk-2-grids-and-images/sematic-ui-part-2.pdf"
@@ -1735,7 +1662,6 @@
 
   "summary" : "table · celled · padded · single line · striped · inverted",
   "id": "talk-4-tables",
-
   
     "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-b/talk-4-tables/sematic-ui-part-3.pdf",
     "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-b/talk-4-tables/sematic-ui-part-3.pdf"
@@ -1757,7 +1683,6 @@
 
   "summary" : "Create a revised version of bundle-store using the Semantic UI CSS framework.",
   "id": "book-semantic-ui",
-
   
     "route" : "#lab/wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-b/book-semantic-ui"
   
@@ -1782,7 +1707,6 @@
 
   "summary" : "06c: Colour",
   "id": "unit-c",
-
   
     "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-c"
   
@@ -1805,7 +1729,6 @@
 
   "summary" : "An introduction to Colour in the context of web site design.",
   "id": "talk",
-
   
     "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-c/talk/colour.pdf",
     "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-c/talk/colour.pdf"
@@ -1830,9 +1753,8 @@
 
   "summary" : "Colour",
   "id": "panelvideo",
-
   
-    "route" : "JDKIYq42omM"
+    "route" : "#video/wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-c/panelvideo/JDKIYq42omM",
   
 
       } 
@@ -1855,7 +1777,6 @@
 
   "summary" : "06d: Web Project Repositories",
   "id": "unit-d",
-
   
     "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-d"
   
@@ -1878,7 +1799,6 @@
 
   "summary" : "Web project source from Lab 01, 02, 03, & 05",
   "id": "github-01-bundle",
-
   
     "route" : "https://github.com/wit-hdip-comp-sci-2019/bundle-store"
   
@@ -1899,7 +1819,6 @@
 
   "summary" : "Web project source from Lab 03 & 04",
   "id": "github-02-grid",
-
   
     "route" : "https://github.com/wit-hdip-comp-sci-2019/grid-layout"
   
@@ -1920,7 +1839,6 @@
 
   "summary" : "Web project source from Lab 06 & 06",
   "id": "github-03-bundle-ejs",
-
   
     "route" : "https://github.com/wit-hdip-comp-sci-2019/bundle-store-ejs"
   
@@ -1948,9 +1866,8 @@
 
   "summary" : "06a: Semantic + CSS Frameworks",
   "id": "panelvideo",
-
   
-    "route" : "ANCxR3YLoYU"
+    "route" : "#video/wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/panelvideo/ANCxR3YLoYU",
   
 
     
@@ -1976,7 +1893,6 @@
 
   "summary" : "sites · apps · frameworks · command line · ide · java · request · response · front-end · back-end",
   "id": "topic-07-starting-play",
-
   
     "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-07-starting-play"
   
@@ -1997,7 +1913,6 @@
 
   "summary" : "Introducing Play Framework",
   "id": "unit-1",
-
   
     "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-07-starting-play/unit-1"
   
@@ -2020,7 +1935,6 @@
 
   "summary" : "theme · content · navigation · structure · templates · style · interaction · business logic · context · static · dynamic",
   "id": "talk-1-introducing-dynamic-web",
-
   
     "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-07-starting-play/unit-1/talk-1-introducing-dynamic-web/a-introduction-to-dynamic-web.pdf",
     "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-07-starting-play/unit-1/talk-1-introducing-dynamic-web/a-introduction-to-dynamic-web.pdf"
@@ -2042,7 +1956,6 @@
 
   "summary" : "download · expand · path · verify · run · idealize · skeleton app",
   "id": "talk-2-starting-to-play",
-
   
     "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-07-starting-play/unit-1/talk-2-starting-to-play/b-starting-to-play.pdf",
     "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-07-starting-play/unit-1/talk-2-starting-to-play/b-starting-to-play.pdf"
@@ -2067,7 +1980,6 @@
 
   "summary" : "Install and test Git + the Play Framework (Note: the video shows java + play revisions a little behind your current installation)",
   "id": "book-b-setup-play",
-
   
     "route" : "#lab/wit-tutors.github.io/tutors-demo/topic-07-starting-play/unit-1/book-b-setup-play"
   
@@ -2092,7 +2004,6 @@
 
   "summary" : "",
   "id": "unit-2",
-
   
     "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-07-starting-play/unit-2"
   
@@ -2115,7 +2026,6 @@
 
   "summary" : "structure  · front-end · backend · router · model  ·  view  ·  controller",
   "id": "talk-3-project-structure",
-
   
     "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-07-starting-play/unit-2/talk-3-project-structure/web-app-intro.pdf",
     "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-07-starting-play/unit-2/talk-3-project-structure/web-app-intro.pdf"
@@ -2137,7 +2047,6 @@
 
   "summary" : "layout · partials · views · tags · about · dashboard · main · start",
   "id": "talk-4-front-end",
-
   
     "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-07-starting-play/unit-2/talk-4-front-end/front-end.pdf",
     "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-07-starting-play/unit-2/talk-4-front-end/front-end.pdf"
@@ -2159,7 +2068,6 @@
 
   "summary" : "request · router · controller · view · response",
   "id": "talk-5-back-end",
-
   
     "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-07-starting-play/unit-2/talk-5-back-end/back-end.pdf",
     "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-07-starting-play/unit-2/talk-5-back-end/back-end.pdf"
@@ -2184,7 +2092,6 @@
 
   "summary" : "Import, rename and run a new starter project. Extend the project to include a Model. (Note: the video shows java + play revisions a little behind your current installation)",
   "id": "book-c-playlist-1",
-
   
     "route" : "#lab/wit-tutors.github.io/tutors-demo/topic-07-starting-play/unit-2/book-c-playlist-1"
   
@@ -2212,9 +2119,8 @@
 
   "summary" : "07: Starting to Play",
   "id": "panelvideo",
-
   
-    "route" : "8filEanmKTw"
+    "route" : "#video/wit-tutors.github.io/tutors-demo/topic-07-starting-play/panelvideo/8filEanmKTw",
   
 
     
@@ -2240,7 +2146,6 @@
 
   "summary" : "Models · Views · Controllers  · conf  · Song · Playlist · ArrayList · OneToMany · Bootstrap",
   "id": "topic-08-introducing-mvc",
-
   
     "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-08-introducing-mvc"
   
@@ -2261,7 +2166,6 @@
 
   "summary" : "Controllers + Views",
   "id": "unit-1",
-
   
     "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-08-introducing-mvc/unit-1"
   
@@ -2284,7 +2188,6 @@
 
   "summary" : "request · router · controller · view · response",
   "id": "talk-0-mvc",
-
   
     "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-08-introducing-mvc/unit-1/talk-0-mvc/mvc.pdf",
     "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-08-introducing-mvc/unit-1/talk-0-mvc/mvc.pdf"
@@ -2306,7 +2209,6 @@
 
   "summary" : "extends · set · list · list · menu · listsongs`",
   "id": "talk-1-views",
-
   
     "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-08-introducing-mvc/unit-1/talk-1-views/views.pdf",
     "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-08-introducing-mvc/unit-1/talk-1-views/views.pdf"
@@ -2328,7 +2230,6 @@
 
   "summary" : "Move the playlist model into the database. Prime the database from a YAML file.",
   "id": "book-a-playlist-2",
-
   
     "route" : "#lab/wit-tutors.github.io/tutors-demo/topic-08-introducing-mvc/unit-1/book-a-playlist-2"
   
@@ -2353,7 +2254,6 @@
 
   "summary" : "Models",
   "id": "unit-2",
-
   
     "route" : "#topic/wit-tutors.github.io/tutors-demo/topic-08-introducing-mvc/unit-2"
   
@@ -2376,7 +2276,6 @@
 
   "summary" : "table  · row  · mem · yaml · Song · Playlist · ArrayList · OneToMany · OnApplicationStart",
   "id": "talk-2-models",
-
   
     "pdf" : "https://wit-tutors.github.io/tutors-demo/topic-08-introducing-mvc/unit-2/talk-2-models/models.pdf",
     "route" : "#talk/wit-tutors.github.io/tutors-demo/topic-08-introducing-mvc/unit-2/talk-2-models/models.pdf"
@@ -2398,7 +2297,6 @@
 
   "summary" : "Move the playlists into their own view. Introduce routes for opening the playlist and also deleting individual songs.",
   "id": "book-b-playlist-3",
-
   
     "route" : "#lab/wit-tutors.github.io/tutors-demo/topic-08-introducing-mvc/unit-2/book-b-playlist-3"
   
@@ -2426,9 +2324,8 @@
 
   "summary" : "08: Introducing MVC",
   "id": "panelvideo",
-
   
-    "route" : "938uuQ_P66Q"
+    "route" : "#video/wit-tutors.github.io/tutors-demo/topic-08-introducing-mvc/panelvideo/938uuQ_P66Q",
   
 
     
