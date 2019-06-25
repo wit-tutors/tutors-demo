@@ -16,7 +16,7 @@
     "properties" : {"slack":"https://wit-hdip-comp-sci-19.slack.com/messages/CEPDU3KQW","moodle":"https://moodle.wit.ie/course/view.php?id=132121","youtube":"https://www.youtube.com/playlist?list=PLEuhMaR29LyA16R5bJ7wBjO3oVSUpJUly","parent":"https://wit-hdip-comp-sci-2019.github.io/","courseurl":"https://wit-tutors.github.io/tutors-demo/","credits":"Eamonn de Leastar, Annetta Stack, WIT","license":"Unless otherwise stated, this work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>.","faPanelicon":"far fa-newspaper","faColour":"#00bfa5","crest":"crestwit.jpg","cresturl":"https://www.wit.ie/courses/school/science/department_of_computing_maths_physics/hdipcomputerscience2yearparttime","ects":5,"basecourseurl":"wit-tutors.github.io/tutors-demo/"}
   
 ,
-  "type" : "lo",
+  "type" : "course",
   "title" : " Web Development ",
   "img" : "https://wit-tutors.github.io/tutors-demo//",
   
@@ -25,7 +25,7 @@
   "summary" : "html · css · layout · web apps · web frameworks · deployment",
   "id": "tutors-demo",
   
-    "route" : "index.html"
+    "route" : "#course/wit-tutors.github.io/tutors-demo/"
   
 ,
   "los" : [  {
@@ -198,7 +198,7 @@
   "summary" : "Assignment 2 Briefing",
   "id": "panelvideo",
   
-    "route" : "#video/wit-tutors.github.io/tutors-demo/topic---assignments/unit-assign-2/panelvideo/ye9t_85fWzI"
+    "route" : "ye9t_85fWzI"
   
 
       } ,
@@ -464,7 +464,7 @@
   "summary" : "01: Introducing HTML",
   "id": "panelvideo",
   
-    "route" : "#video/wit-tutors.github.io/tutors-demo/topic-01-introducing-html/unit/panelvideo/cQRSDIuYfIM"
+    "route" : "cQRSDIuYfIM"
   
 
       } 
@@ -671,7 +671,7 @@
   "summary" : "02: Introducing CSS",
   "id": "panelvideo",
   
-    "route" : "#video/wit-tutors.github.io/tutors-demo/topic-02-introducing-css/panelvideo/yyS7nCNLNOc"
+    "route" : "yyS7nCNLNOc"
   
 
     
@@ -918,7 +918,7 @@
   "summary" : "",
   "id": "panelvideo",
   
-    "route" : "#video/wit-tutors.github.io/tutors-demo/topic-03-box-model/panelvideo/3fSWeaBIIyg"
+    "route" : "3fSWeaBIIyg"
   
 
     
@@ -1052,7 +1052,7 @@
   "summary" : "",
   "id": "panelvideo",
   
-    "route" : "#video/wit-tutors.github.io/tutors-demo/topic-04-navigation/unit-a/panelvideo/PPMxjkDU4sY"
+    "route" : "PPMxjkDU4sY"
   
 
       } 
@@ -1122,7 +1122,7 @@
   "summary" : "",
   "id": "panelvideo",
   
-    "route" : "#video/wit-tutors.github.io/tutors-demo/topic-04-navigation/unit-b/panelvideo/w9HA7HuTTkw"
+    "route" : "w9HA7HuTTkw"
   
 
       } 
@@ -1416,7 +1416,7 @@
   "summary" : "",
   "id": "panelvideo",
   
-    "route" : "#video/wit-tutors.github.io/tutors-demo/topic-05-templating/unit-c/panelvideo/Z308Hm3Pa78"
+    "route" : "Z308Hm3Pa78"
   
 
       } 
@@ -1443,7 +1443,7 @@
   "summary" : "",
   "id": "panelvideo",
   
-    "route" : "#video/wit-tutors.github.io/tutors-demo/topic-05-templating/panelvideo/b4qsSshHKoA"
+    "route" : "b4qsSshHKoA"
   
 
     
@@ -1754,7 +1754,7 @@
   "summary" : "Colour",
   "id": "panelvideo",
   
-    "route" : "#video/wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/unit-c/panelvideo/JDKIYq42omM"
+    "route" : "JDKIYq42omM"
   
 
       } 
@@ -1867,7 +1867,7 @@
   "summary" : "06a: Semantic + CSS Frameworks",
   "id": "panelvideo",
   
-    "route" : "#video/wit-tutors.github.io/tutors-demo/topic-06-css-frameworks/panelvideo/ANCxR3YLoYU"
+    "route" : "ANCxR3YLoYU"
   
 
     
@@ -2120,7 +2120,7 @@
   "summary" : "07: Starting to Play",
   "id": "panelvideo",
   
-    "route" : "#video/wit-tutors.github.io/tutors-demo/topic-07-starting-play/panelvideo/8filEanmKTw"
+    "route" : "8filEanmKTw"
   
 
     
@@ -2325,7 +2325,7 @@
   "summary" : "08: Introducing MVC",
   "id": "panelvideo",
   
-    "route" : "#video/wit-tutors.github.io/tutors-demo/topic-08-introducing-mvc/panelvideo/938uuQ_P66Q"
+    "route" : "938uuQ_P66Q"
   
 
     
